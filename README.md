@@ -18,4 +18,3 @@ Hello. I am Harley, I am a developer that focuses mainly in JS, majority of my w
 ![](https://img.shields.io/badge/Tools-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=9B9B9B)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2032%20mins-blue)
